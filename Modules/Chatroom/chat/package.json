@@ -3,7 +3,7 @@
   "description": "ILIAS CHAT",
   "version": "1.0.1",
   "dependencies": {
-    "express": "3.4.x",
+    "express": "4.17.x",
     "mysql": "^2.7.0",
     "node-mysql": "^0.4.2",
     "node-schedule": "^1.2.3",
